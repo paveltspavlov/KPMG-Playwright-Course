@@ -1,0 +1,23 @@
+{
+  "name": "kpmg-playwright-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paveltspavlov/KPMG-Playwright-Course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/paveltspavlov/KPMG-Playwright-Course/issues"
+  },
+  "homepage": "https://github.com/paveltspavlov/KPMG-Playwright-Course#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6"
+  }
+}
